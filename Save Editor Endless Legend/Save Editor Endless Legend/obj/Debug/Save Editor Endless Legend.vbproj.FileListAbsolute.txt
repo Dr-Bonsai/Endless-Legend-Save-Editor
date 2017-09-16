@@ -1,0 +1,22 @@
+c:\users\borja\documents\visual studio 2017\Projects\Save Editor Endless Legend\Save Editor Endless Legend\bin\Debug\Save Editor Endless Legend.exe.config
+c:\users\borja\documents\visual studio 2017\Projects\Save Editor Endless Legend\Save Editor Endless Legend\bin\Debug\Save Editor Endless Legend.exe
+c:\users\borja\documents\visual studio 2017\Projects\Save Editor Endless Legend\Save Editor Endless Legend\bin\Debug\Save Editor Endless Legend.pdb
+c:\users\borja\documents\visual studio 2017\Projects\Save Editor Endless Legend\Save Editor Endless Legend\bin\Debug\Save Editor Endless Legend.xml
+c:\users\borja\documents\visual studio 2017\Projects\Save Editor Endless Legend\Save Editor Endless Legend\obj\Debug\Save Editor Endless Legend.vbprojResolveAssemblyReference.cache
+c:\users\borja\documents\visual studio 2017\Projects\Save Editor Endless Legend\Save Editor Endless Legend\obj\Debug\Save_Editor_Endless_Legend.Form1.resources
+c:\users\borja\documents\visual studio 2017\Projects\Save Editor Endless Legend\Save Editor Endless Legend\obj\Debug\Save_Editor_Endless_Legend.Resources.resources
+c:\users\borja\documents\visual studio 2017\Projects\Save Editor Endless Legend\Save Editor Endless Legend\obj\Debug\Save Editor Endless Legend.vbproj.GenerateResource.Cache
+c:\users\borja\documents\visual studio 2017\Projects\Save Editor Endless Legend\Save Editor Endless Legend\obj\Debug\Save Editor Endless Legend.exe
+c:\users\borja\documents\visual studio 2017\Projects\Save Editor Endless Legend\Save Editor Endless Legend\obj\Debug\Save Editor Endless Legend.xml
+c:\users\borja\documents\visual studio 2017\Projects\Save Editor Endless Legend\Save Editor Endless Legend\obj\Debug\Save Editor Endless Legend.pdb
+E:\VB\Save Editor Endless Legend\Save Editor Endless Legend\bin\Debug\Save Editor Endless Legend.exe.config
+E:\VB\Save Editor Endless Legend\Save Editor Endless Legend\obj\Debug\Save Editor Endless Legend.exe
+E:\VB\Save Editor Endless Legend\Save Editor Endless Legend\obj\Debug\Save Editor Endless Legend.xml
+E:\VB\Save Editor Endless Legend\Save Editor Endless Legend\obj\Debug\Save Editor Endless Legend.pdb
+E:\VB\Save Editor Endless Legend\Save Editor Endless Legend\bin\Debug\Save Editor Endless Legend.exe
+E:\VB\Save Editor Endless Legend\Save Editor Endless Legend\bin\Debug\Save Editor Endless Legend.pdb
+E:\VB\Save Editor Endless Legend\Save Editor Endless Legend\bin\Debug\Save Editor Endless Legend.xml
+E:\VB\Save Editor Endless Legend\Save Editor Endless Legend\obj\Debug\Save Editor Endless Legend.vbprojResolveAssemblyReference.cache
+E:\VB\Save Editor Endless Legend\Save Editor Endless Legend\obj\Debug\Save_Editor_Endless_Legend.Form1.resources
+E:\VB\Save Editor Endless Legend\Save Editor Endless Legend\obj\Debug\Save_Editor_Endless_Legend.Resources.resources
+E:\VB\Save Editor Endless Legend\Save Editor Endless Legend\obj\Debug\Save Editor Endless Legend.vbproj.GenerateResource.Cache
